@@ -1,0 +1,23 @@
+
+m
+java:S1450
+"WRemove the "fileHTML" field and declare it as a local variable in the relevant methods.(¬•»˜
+l
+java:S1450"VRemove the "fileTxt" field and declare it as a local variable in the relevant methods.(¼ðžÌ
+r
+java:S1450"\Remove the "formatterHTML" field and declare it as a local variable in the relevant methods.(þíöº
+q
+java:S1450"[Remove the "formatterTxt" field and declare it as a local variable in the relevant methods.(«Ûš¤
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÕœÅ÷
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¼ðžÌ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(«Ûš¤
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(¬•»˜
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(þíöº
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(àµÙð
