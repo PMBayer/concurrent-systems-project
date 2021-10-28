@@ -2,7 +2,6 @@ import controllerLogic.CarException;
 import controllerLogic.CarMotorOutput;
 import controllerLogic.CarSensorInput;
 import controllerLogic.Controller;
-
 import java.util.logging.Logger;
 
 class Test1 implements CarSensorInput, CarMotorOutput {
